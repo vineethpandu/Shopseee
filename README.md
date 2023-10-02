@@ -28,7 +28,7 @@ ShopSee is where style meets convenience. Our online store offers a wide selecti
 
 ## Getting Started
 
-1. Visit our website at [ShopSee.com](https://www.shopsee.com).
+1. Visit our website at [ShopSee.com](https://vineethshopsee.netlify.app/).
 2. Browse our extensive catalog and discover your favorite items.
 3. Add products to your shopping cart.
 4. Proceed to checkout, review your order, and complete your purchase securely.
@@ -45,7 +45,7 @@ ShopSee is designed to make your online shopping experience enjoyable and hassle
 
 If you have any questions, encounter issues while using our website, or need assistance, please don't hesitate to reach out to our support team.
 
-- **Email:** [support@shopsee.com](mailto:support@shopsee.com)
+- **Email:** [support@shopsee.com](mailto:vineethworkspace2024@gmail.com)
 
 ## Contributing
 
